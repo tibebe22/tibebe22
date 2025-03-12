@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Tibebe Birhanu
 - 👀 I’m interested in data analysis, time series analysis, complex systems, and statistical physics.
-- 🌱 I am currently working as a postdoctoral researcher at the Catholic University of Korea, focusing on modeling and data analysis in complex systems.
+- 🌱 I am currently working as a postdoctoral researcher at the Catholic University of Korea under the supervision of Prof. Hang-Hyun Jo, focusing on modeling and data analysis in complex systems.
 - 💞️ I’m looking to collaborate on research related to time series analysis, data analysis project in statistical physics. 
 - 📫 How to reach me: You can email me at tibebebirhanu@gmail.com
 <!---
